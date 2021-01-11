@@ -1,0 +1,2 @@
+# MicroService-DemoProject
+A Demo project of Microservices using to two microservice API - "department-service" API as Producer, and "user-service" API as Consumer. We will use Loadbalancer &amp; API Aateway, CircuitBreaker Fallback mechanism, HystrixDashboard for monitoring, Cloud-config for pushing config from GitHub, zipkin-sleuth, and bootstrap.yml. For details implementation kindly go through READ-ME file.
